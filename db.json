@@ -1,1 +1,20 @@
-{}
+{
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "j.smith@gmail.com",
+      "username": "jsmith25",
+      "website": "https://www.google.com/",
+      "id": 1
+    },
+    {
+      "firstName": "Mike",
+      "lastName": "Franks",
+      "email": "mfranks@gmail.com",
+      "username": "frankie",
+      "website": "https://mysite.com",
+      "id": 2
+    }
+  ]
+}
